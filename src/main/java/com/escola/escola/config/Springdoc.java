@@ -23,14 +23,14 @@ public class Springdoc {
                         .version("1.1.0")
                         .contact(new Contact()
                                 .name("Suporte API")
-                                .url("https://suporte.api.escola.com")
+                                .url("http://localhost:8080/swagger-ui/index.html#/")
                                 .email("suporte@escola.com"))
                         .license(new License()
                                 .name("Apache 2.0")
                                 .url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
                         .description("Repositório da Aplicação")
-                        .url("https://github.com/endereco-repositorio-api"));
+                        .url("https://github.com/brunoReinaldo96/ProjetoCRUDSpringBoot"));
 
     }
 
