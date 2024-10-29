@@ -23,6 +23,6 @@ Este projeto é uma aplicação Spring Boot que implementa um sistema CRUD (Crea
 4. Execute o comando `mvn spring-boot:run`.
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/brunoReinaldo96/ProjetoCRUDSpringBoot.git
+cd ProjetoCRUDSpringBoot
 mvn spring-boot:run
